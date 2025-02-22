@@ -29,18 +29,18 @@ You can also run the game using the executable I have created. Simply double-cli
 
 
 ## 👩‍🎓My learning journey
--- 📜Projects planning : I am able to plan and organise the ideas i have encountered some challenges and able to implement my problem solving skills.
--- 🎛️Usage of Git: By uplaoding this project i have gained knowlege of how to use the git.
+- 📜Projects planning : I am able to plan and organise the ideas i have encountered some challenges and able to implement my problem solving skills.
+- 🎛️Usage of Git: By uplaoding this project i have gained knowlege of how to use the git.
 Even though it is not that perfect I am trying to improve myself constantly and i am open to comments and suggestions 🪛..
 
 ## 📸 Screenshots
--- opening window
+- opening window
 ![Screenshot 2025-02-22 133729](https://github.com/user-attachments/assets/b3719382-ca24-4ff1-89f5-47071d01b79a)
--- game window
+- game window
 ![Screenshot 2025-02-22 133749](https://github.com/user-attachments/assets/9711caae-84c1-43df-be30-b17556964598)
--- High score
+- High score
 ![Screenshot 2025-02-22 133843](https://github.com/user-attachments/assets/35bd0f24-5d92-4259-87b8-1f5a27b702a6)
--- exit window
+- exit window
 ![Screenshot 2025-02-22 133811](https://github.com/user-attachments/assets/51a32c1c-18d4-4aee-b62d-788581005404)
 
 ## 📝 License
