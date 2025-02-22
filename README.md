@@ -20,7 +20,7 @@ from the 'Python Crash Course' book, but I've significantly improved it on my ow
 - ⬆️ Use the arrow keys to move the spaceship.
 - ⌨️ Press the spacebar to shoot lasers.
 - 🪙 Avoid colliding with enemies and shoot them to earn points.
-You can also run the game using the executable I have created. Simply double-click on the executable file to start the game.
+- #You can also run the game using the executable I have created. Simply double-click on the executable file to start the game.
 
 ## 🛠️ Future Updates
 - ✅ Power-ups (Coming Soon)
