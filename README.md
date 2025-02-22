@@ -38,10 +38,12 @@ Even though it is not that perfect I am trying to improve myself constantly and 
 ![Screenshot 2025-02-22 133729](https://github.com/user-attachments/assets/b3719382-ca24-4ff1-89f5-47071d01b79a)
 - game window
 ![Screenshot 2025-02-22 133749](https://github.com/user-attachments/assets/9711caae-84c1-43df-be30-b17556964598)
-- High score
-![Screenshot 2025-02-22 135911](https://github.com/user-attachments/assets/6ab8739f-2b22-4027-8e13-d9bf37db0cc9)
 - exit window
-![Screenshot 2025-02-22 133811](https://github.com/user-attachments/assets/51a32c1c-18d4-4aee-b62d-788581005404)
+![Screenshot 2025-02-22 135911](https://github.com/user-attachments/assets/6ab8739f-2b22-4027-8e13-d9bf37db0cc9)
+- high score
+![Screenshot 2025-02-22 140223](https://github.com/user-attachments/assets/a1db5b00-489c-4730-b5f5-827ea67c1fba)
+
+  
 
 ## 📝 License
 This project is open-source. Feel free to modify and improve it!
