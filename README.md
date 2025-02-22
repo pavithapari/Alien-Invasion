@@ -39,7 +39,7 @@ Even though it is not that perfect I am trying to improve myself constantly and 
 - game window
 ![Screenshot 2025-02-22 133749](https://github.com/user-attachments/assets/9711caae-84c1-43df-be30-b17556964598)
 - High score
-![Screenshot 2025-02-22 133843](https://github.com/user-attachments/assets/35bd0f24-5d92-4259-87b8-1f5a27b702a6)
+![Screenshot 2025-02-22 135911](https://github.com/user-attachments/assets/6ab8739f-2b22-4027-8e13-d9bf37db0cc9)
 - exit window
 ![Screenshot 2025-02-22 133811](https://github.com/user-attachments/assets/51a32c1c-18d4-4aee-b62d-788581005404)
 
